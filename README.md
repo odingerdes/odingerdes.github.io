@@ -1,1 +1,1 @@
-# odingerdes.github.io
+Home of [odingerdes.com](http://odingerdes.com)
